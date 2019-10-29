@@ -1,0 +1,25 @@
+Name: Advanced Calculator
+
+Version History:
+        -----
+    Ver 0.1     --- date: 18 Aug. 2019
+        1. basic arithmetic operations (+-*/)
+        2. support for parentheses
+    Ver 0.2     --- date: 26 Aug. 2019
+        1. added sqrt() and log() functions
+        2. added support for multi-line statements
+        3. added an exit statement
+        4. added support for variables
+    Ver 0.3     --- date: 30 Aug. 2019
+        1. added ^ operator
+        2. you can now call functions without parentheses
+        3. updated parser logic
+    Ver 0.4     --- date: 26 Sep. 2019
+        1. fixed a minor bug
+        2. updated program structure
+        3. you can now omit some multiplication signs
+        4. added basic support for solving linear functions
+    Ver 0.5	--- date: ???
+        1. you can now omit even more multiplication signs
+        2. added settings
+        3. added memory for last result (in variable _lastAns)
